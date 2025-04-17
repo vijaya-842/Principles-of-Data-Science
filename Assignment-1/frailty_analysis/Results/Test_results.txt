@@ -1,0 +1,31 @@
+The summary statistics provide a snapshot of the dataset’s key features:
+
+Height:
+ Mean: 68.6 inches
+ Range: 65.8 to 71.5 inches
+
+Weight:
+ Mean: 131.9 lbs
+ Range: 112 to 153 lbs
+
+Age:
+ Mean: 32.5 years
+ Range: 17 to 51 years
+
+Grip Strength:
+ Mean: 26 kg
+ Range: 19 to 31 kg
+
+Frailty (0 = No, 1 = Yes):
+ Mean: 0.4 (40% of participants exhibit frailty symptoms)
+ Range: 0 to 1 (indicating that some participants show frailty, while others do not)
+
+The correlation matrix reveals the following relationships between variables:
+
+Height & Weight: Moderate positive correlation (0.57), suggesting taller individuals typically weigh more.
+Height & Age: Very weak negative correlation (-0.03), indicating no significant relationship.
+Height & Frailty: Weak positive correlation (0.19), implying that taller individuals may have a slightly higher likelihood of being frail.
+Weight & Grip Strength: Very weak positive correlation (0.03), suggesting a negligible relationship.
+Weight & Frailty: Moderate positive correlation (0.54), indicating that heavier individuals may be more susceptible to frailty.
+Age & Grip Strength: Very weak positive correlation (0.13), suggesting age alone is not a strong predictor of grip strength.
+Grip Strength & Frailty: Moderate negative correlation (-0.48), suggesting that lower grip strength is associated with an increased likelihood of frailty.
